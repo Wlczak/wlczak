@@ -6,7 +6,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Wlczak&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Wlczak&theme=ayu-mirage&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wlczak&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wlczak&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true&layout=compact&count_private=false&size_weight=0.5&count_weight=0.5)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Wlczak&icon=0&color=0)](https://visitcount.itsvg.in)
