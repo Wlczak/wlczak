@@ -5,8 +5,8 @@ I'm Wlczak a Czechia based dev. Here is my tech stack as well as some github sta
 # 💻 Tech stack
 
 ### OS
-![POP_OS!](https://img.shields.io/badge/popos-%2348B9C7.svg?style=for-the-badge&logo=popos&logoColor=white)
-![NIXOS](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
+![Pop!_OS](https://img.shields.io/badge/Pop!_OS-%2348B9C7.svg?style=for-the-badge&logo=popos&logoColor=white)
+![NIXOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 
 ---
 ### Languages
