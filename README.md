@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Wlczak a Czechia based dev. Here are few things about me in neatly organized bullet points.
+I'm Wlczak a Czechia based dev. Here is my tech stack as well as some github stats.
 
 # 💻 Tech stack
 
