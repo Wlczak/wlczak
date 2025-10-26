@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Wlczak a dev based in Czechia. I mostly do webapps but I also really like embedded programming for the simplicity of the hardware and thanks to that much fuller knowledge of it.
+I'm Wlczak a dev based in Czechia. I mostly do webapps but I also really like embedded programming for the simplicity of the hardware.
 
 I mainly use PHP and GO but I dabble in other languages from time to time. I'm currently interested in learning Rust and maybe Kotlin for android native.
 
