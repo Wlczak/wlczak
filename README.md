@@ -11,6 +11,7 @@ Below, you'll find my current tech stack and some GitHub stats. Check out my pin
 ### OS
 
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-%2348B9C7.svg?style=for-the-badge&logo=popos&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
 ![NIXOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 
 ---
