@@ -1,10 +1,10 @@
 # Hi there 👋
 
-I'm Wlczak a dev based in Czechia. I mostly do webapps but I also really like embedded programming for the simplicity of the hardware.
+I'm Wlczak - a developer based in Czechia. I mostly build web applications, but I also enjoy working with embedded systems for their straightforward, hands-on nature.
 
-I mainly use PHP and GO but I dabble in other languages from time to time. I'm currently interested in learning Rust and maybe Kotlin for android native.
+I primarily use PHP and Go, though I like exploring other languages from time to time. Lately, I'm currently interested in learning Rust and maybe Kotlin for native android development.
 
-Now, here is my current tech stack as well as some *very usefull* github stats. Right under them is where you can find my pinned projects or you can go to my [website](https://wlczak.vlastas.cc) and check them out from there.
+Below, you'll find my current tech stack and some GitHub stats. Check out my pinned projects right below or visit my [website](https://wlczak.vlastas.cc) to see more of my work.
 
 # 💻 Tech stack
 
