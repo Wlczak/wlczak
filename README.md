@@ -9,10 +9,12 @@ Now, here is my current tech stack as well as some *very usefull* github stats. 
 # 💻 Tech stack
 
 ### OS
+
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-%2348B9C7.svg?style=for-the-badge&logo=popos&logoColor=white)
 ![NIXOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 
 ---
+
 ### Languages
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -32,6 +34,7 @@ Now, here is my current tech stack as well as some *very usefull* github stats. 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
+
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,11 +43,13 @@ Now, here is my current tech stack as well as some *very usefull* github stats. 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
+
 ### Mobile
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ---
+
 ### Hosting
 
 ![Hetzner](https://img.shields.io/badge/hetzner-%23d50c2d.svg?style=for-the-badge&logo=hetzner&logoColor=white)
@@ -57,7 +62,7 @@ Now, here is my current tech stack as well as some *very usefull* github stats. 
 
 https://img.shields.io/badge/hetzner-%23d50c2d.svg?style=for-the-badge&logo=hetzner&logoColor=white
 -->
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 <!-- original stats
 ![](https://github-readme-stats.vercel.app/api?username=Wlczak&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Wlczak&theme=ayu-mirage&hide_border=false)<br/>
@@ -65,16 +70,15 @@ https://img.shields.io/badge/hetzner-%23d50c2d.svg?style=for-the-badge&logo=hetz
 -->
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-wlczaks-projects.vercel.app/api?username=Wlczak&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true"></a> 
-</p> 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats-vlastas.vercel.app/?user=Wlczak&theme=ayu-mirage&hide_border=false"></a> 
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-wlczaks-projects.vercel.app/api?username=Wlczak&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-wlczaks-projects.vercel.app/api/top-langs/?username=Wlczak&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true&layout=compact&count_private=false&size_weight=0.5&count_weight=0.5"></a> 
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats-vlastas.vercel.app/?user=Wlczak&theme=ayu-mirage&hide_border=false"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-wlczaks-projects.vercel.app/api/top-langs/?username=Wlczak&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true&layout=compact&count_private=false&size_weight=0.5&count_weight=0.5"></a>
 </p>
 
 ---
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
