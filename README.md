@@ -74,7 +74,7 @@ https://img.shields.io/badge/hetzner-%23d50c2d.svg?style=for-the-badge&logo=hetz
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-wlczaks-projects.vercel.app/api?username=Wlczak&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats-vc.vercel.app/?user=Wlczak&theme=ayu-mirage&hide_border=false"></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="github-readme-streak-stats.vlastas.cc/?user=Wlczak&theme=ayu-mirage&hide_border=false"></a>
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-wlczaks-projects.vercel.app/api/top-langs/?username=Wlczak&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true&layout=compact&count_private=false&size_weight=0.5&count_weight=0.5"></a>
